@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2017-01-06:v1
+# 2017-01-12:v1
 
 CACHE:
 index.html
@@ -22,3 +22,6 @@ assets/images/vagrant_header_background-482a12a7.png
 assets/images/sidebar_background_inner-970666b8.png
 assets/images/steps_background-10801579.png
 assets/images/sidebar_background_docs-aecd2c3a.png
+
+FALLBACK:
+/ 404.html
